@@ -1,4 +1,4 @@
-import { Faker, faker } from "@faker-js/faker";
+//import { faker } from "@faker-js/faker";
 import { LeadsPage } from "./leadsPage";
 import { FakerData } from "../../utility/fakerUtility";
 
