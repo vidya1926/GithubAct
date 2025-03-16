@@ -10,6 +10,8 @@ import { CreateAccountPage } from '../pages/accounts/createAccountpage'
 import { logDefectissue } from '../jira/logDefect'
 
 type lfFixtures={
+
+    //adding changes
     page:Page
     lp:LoginPage
     wp:WelcomePage
